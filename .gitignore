@@ -1,0 +1,10 @@
+# IDE / Agente local
+.gemini/
+.vscode/
+*.code-workspace
+
+# Archivos de sistema y temporales
+Thumbs.db
+.DS_Store
+*.log
+tmp/
