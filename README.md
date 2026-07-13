@@ -24,6 +24,16 @@ graph TD
 
 ---
 
+### 1. Flujo de Trabajo
+Vista general del notificador de tareas en n8n:
+![Task Notifier Workflow](docs/images/task_notifier_workflow.png)
+
+### 2. Manejador Global de Errores
+El flujo de captura automatizada de excepciones y notificaciones instantáneas a Gmail:
+![Task Notifier Error Handler](docs/images/task_notifier_error_handler.png)
+
+---
+
 ## ⚙️ Especificaciones de la Base de Datos (Google Sheets)
 
 Para la persistencia y lectura de tareas, se utiliza un archivo en Google Drive:
